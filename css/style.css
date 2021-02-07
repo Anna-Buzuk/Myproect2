@@ -1,0 +1,29 @@
+header,
+section,
+footer{
+    border: 1px solid;
+}
+.main1{
+    background-color: #2F303A;
+}
+.color{
+    color: #FFFFFF;
+}
+.Web{
+    font-family: Raleway;
+    color: #2196F3;
+}
+.Studoi{
+    font-family: Raleway;
+    color: black
+}
+.Studia{
+    color: #2196F3;
+}
+.footer{
+    background-color: #2F303A;
+    ;
+}
+.komanda{
+    background-color: #F5F4FA;
+}
