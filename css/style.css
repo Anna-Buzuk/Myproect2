@@ -3,22 +3,53 @@ section,
 footer{
     border: 1px solid;
 }
+
+.heder a {
+    color: #FFFFFF;
+}
+
+.maiin{
+    border: none;
+    background: #2196F3;
+    color: #FFFFFF;
+}
+
+.but2{
+    border: none;
+    background: #F5F4FA;
+
+}
+
+
 .main1{
     background-color: #2F303A;
 }
+
+.footer{
+    background-color: #2F303A;
+}
+
 .color{
     color: #FFFFFF;
 }
 .Web{
     font-family: Raleway;
     color: #2196F3;
+    font-weight: 700;
 }
+
 .Studoi{
     font-family: Raleway;
-    color: black
+    color: black;
+    font-weight: 700;
+}
+.Studoii{
+    color: white;
+    font-weight: 700;
 }
 .Studia{
-    color: #2196F3;
+    color: black;
+    font-weight: 500;
 }
 .footer{
     background-color: #2F303A;
@@ -31,3 +62,54 @@ footer{
     
     display: flex;
 }
+
+.Robo{
+   font-family: Roboto;
+   font-weight: 700;
+   color: #212121;
+   }
+.Soobr{
+    font-family: Roboto;
+    font-weight: 400;
+    color: #757575;
+   }
+
+   .glown{
+       font-family: Roboto;
+       font-weight: 900;
+       color: white;
+   }
+
+   body{
+       font-family: 'roboto'
+   }
+
+  .Studiaa{
+   font-weight: 500;
+   color: black;
+ }
+ .black{
+     font-weight: 500;
+     color: black;
+ }
+
+ .tel{
+     color:#757575;
+     font-weight: 500;
+ }
+
+ .adres{
+     font-weight: 400;
+     color: #FFFFFF;
+     ;
+ }
+
+ .MT{
+      color: rgba(255, 255, 255, 0.6)
+ }
+
+ .MT1{
+     color: #757575;
+     font-weight: 500
+     ;
+ }
