@@ -27,3 +27,7 @@ footer{
 .komanda{
     background-color: #F5F4FA;
 }
+.blok{
+    
+    display: flex;
+}
