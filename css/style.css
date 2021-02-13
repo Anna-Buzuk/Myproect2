@@ -1,23 +1,53 @@
 header,
 section,
 footer{
-    border: 1px solid;
+
 }
+
+li{
+
+list-style-type:none
+}
+
+.header{
+position: relative;
+}
+
+.navh,
+.nav-list,
+.nav-st{
+    display: flex;
+}
+
+.navh{
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 24px;
+}
+
+.left{
+    margin-left: 50px;
+}
+
 
 .heder a {
     color: #FFFFFF;
 }
 
 .maiin{
-    border: none;
     background: #2196F3;
     color: #FFFFFF;
+    position: absolute;
+    width: 150px;
+    height: 35px;
+    left: 600px;
+    top: 330px;
+    margin-top: 150px;
+
 }
 
 .but2{
-    border: none;
     background: #F5F4FA;
-
 }
 
 
@@ -36,6 +66,7 @@ footer{
     font-family: Raleway;
     color: #2196F3;
     font-weight: 700;
+    margin-left: 215px;
 }
 
 .Studoi{
@@ -48,8 +79,9 @@ footer{
     font-weight: 700;
 }
 .Studia{
-    color: black;
+    color:  #2196F3;
     font-weight: 500;
+    margin-left: 93px;
 }
 .footer{
     background-color: #2F303A;
@@ -67,17 +99,28 @@ footer{
    font-family: Roboto;
    font-weight: 700;
    color: #212121;
-   }
+   position: relative;
+   width: 270px;
+   padding-bottom: 10px;
+  }
 .Soobr{
     font-family: Roboto;
     font-weight: 400;
     color: #757575;
-   }
+    Size :14px;
+    position: relative;
+    width: 270px;
+}
 
-   .glown{
+.glown{
        font-family: Roboto;
        font-weight: 900;
        color: white;
+       padding-top: 150px;
+       padding-bottom: 30px;
+       padding-left: 452px;
+       padding-right: 452px;
+       font-size: 44px;
    }
 
    body{
@@ -91,6 +134,7 @@ footer{
  .black{
      font-weight: 500;
      color: black;
+     padding-left: 50px;
  }
 
  .tel{
@@ -113,3 +157,42 @@ footer{
      font-weight: 500
      ;
  }
+
+ .Container{
+    Width:1600px;
+    Height:80px;
+    margin-bottom: 25px;
+    display: flexbox;
+   padding-left: 0px;
+ }
+
+ .Container2{
+    Width:1600px;
+    Height:600px;
+    padding: 0% 15px;
+    padding-top: 80px;
+    display: flexbox;
+ }
+
+ .Container3{
+    Width:1600px;
+    Height:600px;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    margin-left: 215px;
+  
+    
+ }
+
+ .Conteiner4{
+    Width:1600px;
+    Height:600px;
+ }
+
+ .Container5{
+  Width:1600px;
+  Height: 252px;
+  Top:2097px;
+}
+
