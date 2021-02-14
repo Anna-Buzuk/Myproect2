@@ -3,11 +3,8 @@ section,
 footer{
 
 }
-body{
-    width: 1600px;
-}
-li{
 
+li{
 list-style-type:none
 }
 
@@ -21,10 +18,14 @@ position: relative;
     display: flex;
 }
 
+.nav-st{
+padding-left: 250px;
+}
+
 .navh{
-    justify-content: space-between;
+    
     align-items: center;
-    padding-top: 24px;
+    padding-top: 25px;
 }
 
 .left{
@@ -39,26 +40,18 @@ position: relative;
 .maiin{
     background: #2196F3;
     color: #FFFFFF;
-    position: absolute;
-    width: 150px;
-    height: 35px;
-    left: 600px;
-    top: 330px;
-    margin-top: 150px;
-
+    width: 200px;
+    height: 50px;
+    margin-left: 732px;
+    margin-right: 732px;
 }
 
 .but2{
     background: #F5F4FA;
 }
 
-
-.main1{
-    background-color: #2F303A;
-}
-
 .footer{
-    background-color: #2F303A;
+    
 }
 
 .color{
@@ -69,6 +62,7 @@ position: relative;
     color: #2196F3;
     font-weight: 700;
     margin-left: 215px;
+    margin-right: 93px;
 }
 
 .Studoi{
@@ -83,7 +77,7 @@ position: relative;
 .Studia{
     color:  #2196F3;
     font-weight: 500;
-    margin-left: 93px;
+   
 }
 .footer{
     background-color: #2F303A;
@@ -91,17 +85,29 @@ position: relative;
 }
 .komanda{
     background-color: #F5F4FA;
+    padding-bottom: 50px;
+    padding-left: 40px;
 }
+
+.blokkom
+{
+    display: flex;
+    padding-left: 215px;
+    margin-left: 30px;
+}
+
+
 .blok{
     
     display: flex;
+    padding-left: 215px;
+    margin-left: 30px;
 }
 
 .Robo{
    font-family: Roboto;
    font-weight: 700;
    color: #212121;
-   position: relative;
    width: 270px;
    padding-bottom: 10px;
   }
@@ -118,11 +124,13 @@ position: relative;
        font-family: Roboto;
        font-weight: 900;
        color: white;
-       padding-top: 150px;
+       align-items: center;
        padding-bottom: 30px;
        padding-left: 452px;
        padding-right: 452px;
        font-size: 44px;
+       padding-top: 100px;
+       
    }
 
    body{
@@ -173,12 +181,15 @@ position: relative;
     Height:600px;
     padding: 0% 15px;
     padding-top: 80px;
-    display: flexbox;
+    background-color: #2F303A;
+    text-transform: uppercase;
+    Size:44px;
+    text-align: center;
  }
 
  .Container3{
-    Width:1600px;
-    Height:600px;
+    Width:1200px;
+    Height:400px;
     justify-content: space-between;
     align-items: center;
     display: flex;
@@ -188,13 +199,73 @@ position: relative;
  }
 
  .Conteiner4{
-    Width:1600px;
-    Height:600px;
+    Width:1200px;
+    Height:400px;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 250px;
  }
 
  .Container5{
   Width:1600px;
-  Height: 252px;
-  Top:2097px;
+  Height: 648px;
+  Top: 1449px;
+  
 }
 
+.foto{
+    padding-left: 30px;
+}
+
+ .CON4{
+  margin-left: 750px;
+  size: 36px;
+  font-weight: 700;
+  padding-bottom: 94px;
+  padding-bottom: 50px;
+}
+
+.kom{
+    padding-left: 768px;
+    font-weight: 700;
+    size: 36px;
+    padding-top: 94px;
+   
+}
+ 
+.Container6{
+    Width:1600px;
+    Height: 252px;
+    margin-top: -15px;
+    background: #2F303A;
+}
+
+.Weby{
+    padding-left: 175px;
+    font-weight: 400;
+    padding-bottom: 9px;
+}
+.Webst{
+margin-top: 150px;
+color: #2196F3;
+    
+}
+.card{
+padding-left: 30px;
+}
+
+img
+{
+    display: block;
+}
+.imie{
+background-color:white;
+padding: 30px;
+
+}
+
+.WQ{
+    padding-left: 215px;
+   padding-bottom: 10px;
+   padding-top: 60px;
+}
