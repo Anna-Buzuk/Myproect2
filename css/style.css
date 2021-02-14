@@ -3,7 +3,9 @@ section,
 footer{
 
 }
-
+body{
+    width: 1600px;
+}
 li{
 
 list-style-type:none
