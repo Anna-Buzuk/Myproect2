@@ -173,7 +173,7 @@ padding-left: 250px;
     Height:80px;
     margin-bottom: 25px;
     display: flexbox;
-   padding-left: 0px;
+    padding-left: 0px;
  }
 
  .Container2{
@@ -269,3 +269,129 @@ padding: 30px;
    padding-bottom: 10px;
    padding-top: 60px;
 }
+
+.Container10{
+    Width:1600px;
+    Height:80px;
+    margin-bottom: 25px;
+    display: flex;
+    align-items: center;
+    display: inline-block;
+    justify-content: space-between;
+    
+}
+
+.nav-portfolio{
+   
+    padding-top: 25px;
+}
+
+.nav-flex{
+    display: flex;
+   
+}
+.nav-adres{
+    display: flex;   
+}
+.WEBSRT{
+    font-size: 700;
+    font-family: Raleway;
+    font-size: 26px;
+    font-weight: 700;
+    color: #2196F3; 
+}
+
+.knopka{
+    background-color: #F5F4FA;
+    color: black;
+    height: 38px;
+    width: 128px;
+    left: 576px;
+    top: 174px;
+    border-color: #F5F4FA;
+    margin-right: 8px;
+
+
+
+
+}
+
+.glknopka{
+    background: #2196F3;
+    color: #FFFFFF;
+    margin-left: 517px;
+    height: 38px;
+    width: 73px;
+    left: 495px;
+    top: 174px;
+    border-radius: 4px; 
+    margin-left: 350px;
+    margin-right: 8px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.blok-portfolio{
+   display: flex;
+   background-color: #F5F4FA;
+   padding-bottom: 50px;
+   padding-left: 40px;
+   display: flex;
+  flex-wrap: wrap;
+}
+
+.card-pf{
+    padding-left: 30px;
+    margin-right: 50px;
+
+
+}
+
+.blok-clor-imie{
+    background-color:white;
+    padding: 30px;
+
+}
+
+.glzag{
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0.06em;
+    text-align: left;
+    
+}
+
+.glzagbukw{
+height: 30px;
+width: 322px;
+left: 239px;
+top: 1050px;
+color: #757575;
+}
+
+.prof-nazw{
+   background-color:white;
+}
+
+.WSY{
+font-family: Raleway;
+font-size: 26px;
+font-weight: 700;
+line-height: 31px;
+text-align: left;
+font-size: 26px;
+font-weight: 400;
+line-height: 36px;
+margin-left: 215px;
+
+}
+
+.df{
+    display: flex;
+   flex-wrap: wrap;
+   margin-top: -50px;
+}
+
